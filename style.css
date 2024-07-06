@@ -251,27 +251,8 @@ input[type="file"]::file-selector-button:hover {
 
 
 footer {
-  min-height: 8vh;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
-  border-top: 1px solid lightgrey;
-  text-align: center;
-  margin-top: 20px;
-  padding: 8px 0;
+ display: none;
 }
-
-footer a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-footer a:hover {
-  text-decoration: underline;
-}
-
 
 
 .toggle {
